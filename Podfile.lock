@@ -1,0 +1,18 @@
+PODS:
+  - TXLiteAVSDK_Professional (11.3.14327):
+    - TXLiteAVSDK_Professional/Professional (= 11.3.14327)
+  - TXLiteAVSDK_Professional/Professional (11.3.14327)
+
+DEPENDENCIES:
+  - TXLiteAVSDK_Professional (from `https://liteav.sdk.qcloud.com/pod/liteavsdkspec/TXLiteAVSDK_Professional.podspec`)
+
+EXTERNAL SOURCES:
+  TXLiteAVSDK_Professional:
+    :podspec: https://liteav.sdk.qcloud.com/pod/liteavsdkspec/TXLiteAVSDK_Professional.podspec
+
+SPEC CHECKSUMS:
+  TXLiteAVSDK_Professional: 2199c4ab7417000bd4f9cef029974eb1663b2915
+
+PODFILE CHECKSUM: 4b55dc3432515b4fdcffebdaa7944236724456ad
+
+COCOAPODS: 1.12.1
